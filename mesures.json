@@ -1,0 +1,44 @@
+[
+    {
+        "dateHeureMesure": "2025-04-23 10:06:06",
+        "dataMesure": [
+            300.0
+        ]
+    },
+    {
+        "dateHeureMesure": "2025-04-23 10:06:08",
+        "dataMesure": [
+            300.0
+        ]
+    },
+    {
+        "dateHeureMesure": "2025-04-23 10:06:10",
+        "dataMesure": [
+            4.23
+        ]
+    },
+    {
+        "dateHeureMesure": "2025-04-23 10:06:12",
+        "dataMesure": [
+            2.62
+        ]
+    },
+    {
+        "dateHeureMesure": "2025-04-23 10:06:13",
+        "dataMesure": [
+            6.77
+        ]
+    },
+    {
+        "dateHeureMesure": "2025-04-23 10:06:16",
+        "dataMesure": [
+            2.64
+        ]
+    },
+    {
+        "dateHeureMesure": "2025-04-23 10:06:18",
+        "dataMesure": [
+            3.59
+        ]
+    }
+]
