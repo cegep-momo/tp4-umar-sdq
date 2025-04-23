@@ -5,4 +5,4 @@ if __name__ == "__main__":
     try:
         control.demarrage_capteur_distance()
     except KeyboardInterrupt:
-        print("Programme stopped")
+        print("Programme arret")

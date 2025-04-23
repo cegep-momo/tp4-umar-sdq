@@ -25,7 +25,7 @@ class Controlleur:
                 sleep(1)
 
             if self.platine.bouton2.is_pressed:
-                self.view.ecrire_mesure("Mesure arrêtée et sauvegardée.")
+                self.view.ecrire_mesure("Mesure arretee et sauvegardee.")
                 self.sauvegarder_mesures()
                 sleep(1)
                 break

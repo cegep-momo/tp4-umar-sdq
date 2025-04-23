@@ -1,44 +1,68 @@
 [
     {
-        "dateHeureMesure": "2025-04-23 10:06:06",
+        "dateHeureMesure": "2025-04-23 10:21:07",
+        "dataMesure": [
+            2.0
+        ]
+    },
+    {
+        "dateHeureMesure": "2025-04-23 10:21:21",
+        "dataMesure": [
+            7.09
+        ]
+    },
+    {
+        "dateHeureMesure": "2025-04-23 10:21:26",
+        "dataMesure": [
+            7.08
+        ]
+    },
+    {
+        "dateHeureMesure": "2025-04-23 10:21:28",
+        "dataMesure": [
+            7.08
+        ]
+    },
+    {
+        "dateHeureMesure": "2025-04-23 10:21:30",
+        "dataMesure": [
+            2.31
+        ]
+    },
+    {
+        "dateHeureMesure": "2025-04-23 10:21:35",
+        "dataMesure": [
+            7.72
+        ]
+    },
+    {
+        "dateHeureMesure": "2025-04-23 10:21:36",
+        "dataMesure": [
+            9.73
+        ]
+    },
+    {
+        "dateHeureMesure": "2025-04-23 10:21:40",
+        "dataMesure": [
+            2.32
+        ]
+    },
+    {
+        "dateHeureMesure": "2025-04-23 10:21:42",
         "dataMesure": [
             300.0
         ]
     },
     {
-        "dateHeureMesure": "2025-04-23 10:06:08",
+        "dateHeureMesure": "2025-04-23 10:21:45",
         "dataMesure": [
-            300.0
+            9.37
         ]
     },
     {
-        "dateHeureMesure": "2025-04-23 10:06:10",
+        "dateHeureMesure": "2025-04-23 10:21:48",
         "dataMesure": [
-            4.23
-        ]
-    },
-    {
-        "dateHeureMesure": "2025-04-23 10:06:12",
-        "dataMesure": [
-            2.62
-        ]
-    },
-    {
-        "dateHeureMesure": "2025-04-23 10:06:13",
-        "dataMesure": [
-            6.77
-        ]
-    },
-    {
-        "dateHeureMesure": "2025-04-23 10:06:16",
-        "dataMesure": [
-            2.64
-        ]
-    },
-    {
-        "dateHeureMesure": "2025-04-23 10:06:18",
-        "dataMesure": [
-            3.59
+            158.67
         ]
     }
 ]
